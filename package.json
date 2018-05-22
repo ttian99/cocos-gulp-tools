@@ -1,0 +1,29 @@
+{
+  "name": "cocos-gulp-tools",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "cocos",
+    "cocos-creator",
+    "build"
+  ],
+  "author": "monkey jiao",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-file-inline": "^1.4.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-zip": "^4.1.0",
+    "iconv-lite": "^0.4.23",
+    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-pngquant": "^5.1.0"
+  }
+}
